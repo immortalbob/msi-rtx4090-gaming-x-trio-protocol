@@ -1,0 +1,24 @@
+MSI GeForce RTX 4090 Gaming X Trio protocol reference
+Copyright (c) 2026 the author (see README.md)
+
+SPDX-License-Identifier: CC-BY-4.0
+
+The documents in this folder (README.md, STATUS.md, msi-rtx4090-gaming-x-trio.md and any other .md file
+published with them) are licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0).
+
+You are free to share (copy and redistribute the material in any medium or format) and to adapt
+(remix, transform, and build upon the material) for any purpose, even commercially, under the
+following terms: Attribution. You must give appropriate credit, provide a link to the license, and
+indicate if changes were made. You may do so in any reasonable manner, but not in any way that
+suggests the licensor endorses you or your use. No additional restrictions. You may not apply legal
+terms or technological measures that legally restrict others from doing anything the license permits.
+
+The full legal code is at https://creativecommons.org/licenses/by/4.0/legalcode and a summary at
+https://creativecommons.org/licenses/by/4.0/ .
+
+No scripts or source files are published with these documents.
+
+The documents describe the behaviour of hardware, firmware and software made by NVIDIA Corporation
+and Micro-Star International Co., Ltd. (MSI). Neither is associated with this work or endorsed it.
+Trade marks belong to their owners.
